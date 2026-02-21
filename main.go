@@ -51,6 +51,7 @@ func main() {
     // functionany.Change(10.82828)
     // functionany.Change("Shinas Muhammed K")
     
-    goroutines.Print()
+    // goroutines.Print()
     
+    goroutines.ABC()
 }
